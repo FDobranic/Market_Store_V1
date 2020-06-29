@@ -1,0 +1,13 @@
+G:\Programiranje\FTN Informatika .NET\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.exe
+G:\Programiranje\FTN Informatika .NET\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.deps.json
+G:\Programiranje\FTN Informatika .NET\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.runtimeconfig.json
+G:\Programiranje\FTN Informatika .NET\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.runtimeconfig.dev.json
+G:\Programiranje\FTN Informatika .NET\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.dll
+G:\Programiranje\FTN Informatika .NET\MarketStore\MarketStore\bin\Debug\netcoreapp3.1\MarketStore.pdb
+G:\Programiranje\FTN Informatika .NET\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.csprojAssemblyReference.cache
+G:\Programiranje\FTN Informatika .NET\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.AssemblyInfoInputs.cache
+G:\Programiranje\FTN Informatika .NET\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.AssemblyInfo.cs
+G:\Programiranje\FTN Informatika .NET\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.csproj.CoreCompileInputs.cache
+G:\Programiranje\FTN Informatika .NET\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.dll
+G:\Programiranje\FTN Informatika .NET\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.pdb
+G:\Programiranje\FTN Informatika .NET\MarketStore\MarketStore\obj\Debug\netcoreapp3.1\MarketStore.genruntimeconfig.cache
